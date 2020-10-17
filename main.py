@@ -48,6 +48,7 @@ for i in range(times_to_roll):
   print('Current loop number: ', i+1)
   # Print a line break
   print('')
+  
 # Calculate the probability
 probability = total_rolls/times_to_roll
 # Print the probability as a fraction
