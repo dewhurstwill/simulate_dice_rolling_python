@@ -14,7 +14,7 @@ import random
 total_rolls = 0
 # Number of times to run the test, before calculating
 # the probability
-times_to_roll = 100000
+times_to_roll = 1000
 
 # Function to roll a dice
 def roll_dice():
